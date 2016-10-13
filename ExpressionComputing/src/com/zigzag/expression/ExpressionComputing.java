@@ -27,9 +27,6 @@ import java.util.*;
 //
 //zigzag
 //2016.10.13
-
-=======
-//hello gay !
 >>>>>>> B2
 
 
