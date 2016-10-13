@@ -23,10 +23,14 @@ import java.util.*;
 //
 //
 //               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<<<<<<< HEAD
 //
 //zigzag
 //2016.10.13
 
+=======
+//hello gay !
+>>>>>>> B2
 
 
 public class ExpressionComputing {
